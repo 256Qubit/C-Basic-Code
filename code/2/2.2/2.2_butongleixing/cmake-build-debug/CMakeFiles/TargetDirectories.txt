@@ -1,0 +1,3 @@
+D:/3/code/2/2.2/2.2_butongleixing/cmake-build-debug/CMakeFiles/2_2_butongleixing.dir
+D:/3/code/2/2.2/2.2_butongleixing/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/3/code/2/2.2/2.2_butongleixing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
