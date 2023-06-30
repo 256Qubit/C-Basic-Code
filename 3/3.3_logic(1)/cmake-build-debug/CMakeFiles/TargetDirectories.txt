@@ -1,0 +1,3 @@
+D:/3/code/3/3.3_logic(1)/cmake-build-debug/CMakeFiles/3_3_logic_1_.dir
+D:/3/code/3/3.3_logic(1)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/3/code/3/3.3_logic(1)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
