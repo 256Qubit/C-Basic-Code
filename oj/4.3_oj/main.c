@@ -6,9 +6,9 @@
         {
             for (b = 1; b < 20; b++)
             {
-                for (c = 1; c < 50; c++)
+                for (c = 1; c < 40; c++)
                 {
-                    for (d = 1; d < 100; d++)
+                    for (d = 1; d <40; d++)
                     {
                         sum = a * 10 + b * 5 + c * 2 + d;
                         total = a + b + c + d;
