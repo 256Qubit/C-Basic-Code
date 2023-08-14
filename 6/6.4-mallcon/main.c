@@ -15,5 +15,7 @@ int main() {
     *(p+5)='\0';
     strcpy(p,"malloc success");
     puts(p);
+    free(p);
+    printf("free success");
     return 0;
 }
