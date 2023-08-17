@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "7_1_function.exe"
   "7_1_function.exe.manifest"
   "7_1_function.pdb"
+  "CMakeFiles/7_1_function.dir/func.c.obj"
   "CMakeFiles/7_1_function.dir/main.c.obj"
   "lib7_1_function.dll.a"
 )

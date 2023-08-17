@@ -74,6 +74,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/3/code/7/7.1-function/func.c">
+			<Option target="7_1_function"/>
+		</Unit>
+		<Unit filename="D:/3/code/7/7.1-function/func.h">
+			<Option target="7_1_function"/>
+		</Unit>
 		<Unit filename="D:/3/code/7/7.1-function/main.c">
 			<Option target="7_1_function"/>
 		</Unit>

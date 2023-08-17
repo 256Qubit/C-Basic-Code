@@ -141,6 +141,33 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\7_1_function.dir\build.make CMakeFiles/7_1_function.dir/build
 .PHONY : 7_1_function/fast
 
+func.obj: func.c.obj
+
+.PHONY : func.obj
+
+# target to build an object file
+func.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\7_1_function.dir\build.make CMakeFiles/7_1_function.dir/func.c.obj
+.PHONY : func.c.obj
+
+func.i: func.c.i
+
+.PHONY : func.i
+
+# target to preprocess a source file
+func.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\7_1_function.dir\build.make CMakeFiles/7_1_function.dir/func.c.i
+.PHONY : func.c.i
+
+func.s: func.c.s
+
+.PHONY : func.s
+
+# target to generate assembly for a file
+func.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\7_1_function.dir\build.make CMakeFiles/7_1_function.dir/func.c.s
+.PHONY : func.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -177,6 +204,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 7_1_function
+	@echo ... func.obj
+	@echo ... func.i
+	@echo ... func.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
